@@ -1,2 +1,2 @@
-# GoofyAhhWebsite
-Files Needed For a Website, Probbably Wont Be Used Much
+# Website thingy
+Probbably Wont Be Used Much
